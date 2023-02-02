@@ -19519,9 +19519,7 @@ iframe {
   background-size:cover;
   z-index: -2;
 }
-.hero-title1:{
-  background-image: url(../img/hero/shape.svg);
-}
+
 
 @media (min-width: 992px) {
   .hero-title:before {
@@ -19671,6 +19669,7 @@ iframe {
 	}
 
 }
+
 .container-1{
   display: flex;
   margin: 20px 10px;
