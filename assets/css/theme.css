@@ -19670,6 +19670,12 @@ iframe {
 
 }
 
+.btn-1{
+  color: var(--bs-blue);
+  padding: 10px;
+  border-radius: 5rem;
+}
+
 .container-1{
   display: flex;
   margin: 20px 10px;
