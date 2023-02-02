@@ -19675,3 +19675,20 @@ iframe {
 	}
 
 }
+.container-1{
+  display: flex;
+  margin: 20px 10px;
+  width: auto;
+}
+.section-1{
+  padding-left: 80px;
+  align-items: center;
+}
+.section-1.img{
+  width: 100px;
+  height: 10px;
+}
+.section-2{
+  padding: 80px;
+  margin-top: 25px;
+}
