@@ -365,7 +365,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button;
+  
 }
 
 button:not(:disabled),
@@ -3574,7 +3574,7 @@ fieldset:disabled .btn {
    background-color: #9916f2;
    border-color: #9916f2;
  }
-}
+
 
 .btn-primary:hover {
   color: #FFFEFE;
@@ -18725,7 +18725,6 @@ iframe {
 .text-gradient {
   background: -o-linear-gradient(40deg, #9916f2,#fb495b,#04c8dc,#9916f2);
   background: linear-gradient(70deg,#0d93e5,#e21ce9,#9916f2,#fb495b);
-  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -19655,7 +19654,7 @@ iframe {
 /*# sourceMappingURL=theme.css.map */
 .span1:before {
 	content: '';
-	animation: wordChange infinite 8s;
+	animation: wordChange infinite 10s;
 }
 @keyframes wordChange {
 	0% {
@@ -19667,10 +19666,7 @@ iframe {
 	50% {
 		content: 'Extraordinary';
 	}
-	75% {
-		content: 'Innovative';
-	}
-  100% {
+ 75% {
 		content: 'Innovative';
 	}
 
