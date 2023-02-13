@@ -3707,16 +3707,16 @@ fieldset:disabled .btn {
 
 .btn-blue {
   color: #FFFEFE;
-  background-color: #0045E7;
-  border-color: #0045E7;
+  background-color: #268ccc;
+  border-color: #268ccc;
 }
 
 .btn-blue:hover {
   color: #FFFEFE;
-  background-color: #0045E7;
-  border-color: #0045E7;
+  background-color: #268ccc;
+  border-color: #268ccc;
 }
-/* //#0045E7 */
+/* //#268ccc */
 
 .btn-check:focus + .btn-info, .btn-info:focus {
   color: #FFFEFE;
@@ -4156,8 +4156,8 @@ fieldset:disabled .btn {
 
 .btn-outline-dark:hover {
   color: #FFFEFE;
-  background-color: #212832;
-  border-color: #212832;
+  background-color: #268ccc;
+  border-color: #268ccc;
 }
 
 .btn-check:focus + .btn-outline-dark, .btn-outline-dark:focus {
@@ -4737,7 +4737,7 @@ fieldset:disabled .btn {
 }
 
 .nav-link:hover, .nav-link:focus {
-  color: #0045E7;
+  color: #268ccc;
   text-decoration: none;
 }
 
@@ -4772,7 +4772,7 @@ fieldset:disabled .btn {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #0045E7;
+  color: #268ccc;
   background-color: rgba(223, 105, 81, 0.15);
   border-color: transparent;
 }
@@ -4792,7 +4792,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #FFFEFE;
-  background-color:#0045E7;
+  background-color:#268ccc;
 }
 
 .nav-fill > .nav-link,
@@ -5197,7 +5197,7 @@ fieldset:disabled .btn {
 }
 
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-  color: #0045E7;
+  color: #268ccc;
 }
 
 .navbar-light .navbar-nav .nav-link.disabled {
@@ -5206,7 +5206,7 @@ fieldset:disabled .btn {
 
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #0045E7;
+  color: #268ccc;
 }
 
 .navbar-light .navbar-toggler {
@@ -18978,7 +18978,7 @@ iframe {
 }
 
 .link-900:hover, .link-900:focus {
-  color: #0045E7  !important;
+  color: #268ccc  !important;
 }
 
 .link-1000 {
@@ -19579,7 +19579,7 @@ iframe {
   bottom: 0.625rem;
   width: 6.25rem;
   height: 6.25rem;
-  background-color: #0045E7;
+  background-color: #268ccc;
   border-radius: 1.875rem 0 0.625rem 0;
   z-index: -1;
   -webkit-transition: all 0.2s ease-in-out;
@@ -19686,7 +19686,7 @@ iframe {
 
 }
 .span1{
-  color: #0045E7;
+  color: #268ccc;
 }
 
 .btn-1{
